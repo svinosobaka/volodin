@@ -42,46 +42,6 @@ AmCharts.makeChart("chartdiv", {
  		"text": "Chart Title"
  	}],
  	"dataProvider":[{
-  "likes": 34,
-  "dislikes": 4,
-  "time": "2017-02-25 19:35"
-},
-{
-  "likes": 35,
-  "dislikes": 4,
-  "time": "2017-02-25 19:35"
-},
-{
-  "likes": 35,
-  "dislikes": 4,
-  "time": "2017-02-25 19:40"
-},
-{
-  "likes": 35,
-  "dislikes": 4,
-  "time": "2017-02-25 19:41"
-},
-{
-  "likes": 35,
-  "dislikes": 4,
-  "time": "2017-02-25 19:42"
-},
-{
-  "likes": 35,
-  "dislikes": 4,
-  "time": "2017-02-25 19:43"
-},
-{
-  "likes": 35,
-  "dislikes": 4,
-  "time": "2017-02-25 19:44"
-},
-{
-  "likes": 35,
-  "dislikes": 4,
-  "time": "2017-02-25 19:45"
-},
-{
   "likes": 1357,
   "dislikes": 1466,
   "time": "2017-02-25 19:49"
@@ -99,6 +59,6 @@ AmCharts.makeChart("chartdiv", {
 {
   "likes": 1357,
   "dislikes": 1466,
-  "time": "2017-02-25 19:52"
+  "time": "2017-02-25 19:53"
 }]
 });
