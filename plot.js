@@ -28,7 +28,7 @@ AmCharts.makeChart("chartdiv", {
  	"guides": [],
  	"valueAxes": [{
  		"id": "ValueAxis-1",
- 		"title": "КАК ЖЕ ЗАЕБАЛА ЭТА ЕБАНАЯ МРАЗЬ"
+ 		"title": "Количество"
  	}],
  	"allLabels": [],
  	"balloon": {},
@@ -39,7 +39,7 @@ AmCharts.makeChart("chartdiv", {
  	"titles": [{
  		"id": "Title-1",
  		"size": 15,
- 		"text": "Chart Title"
+ 		"text": "Если не Путин то кот"
  	}],
  	"dataProvider":[{
   "likes": 20,
@@ -60,5 +60,10 @@ AmCharts.makeChart("chartdiv", {
   "likes": 24,
   "dislikes": 8,
   "time": "2017-02-26 19:08"
+},
+{
+  "likes": 25,
+  "dislikes": 8,
+  "time": "2017-02-26 19:09"
 }]
 });
