@@ -70,5 +70,10 @@ AmCharts.makeChart("chartdiv", {
   "likes": 20,
   "dislikes": 606,
   "time": "2017-02-26 21:26"
+},
+{
+  "likes": 20,
+  "dislikes": 624,
+  "time": "2017-02-26 21:27"
 }]
 });
