@@ -44,6 +44,6 @@ AmCharts.makeChart("chartdiv", {
  	"dataProvider":[{
   "likes": 16,
   "dislikes": 0,
-  "time": "2017-03-02 17:07"
+  "time": "2017-03-02 17:08"
 }]
 });
