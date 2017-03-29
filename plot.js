@@ -41,4 +41,9 @@ AmCharts.makeChart("chartdiv", {
  		"size": 15,
  		"text": "Ольгино за работой"
  	}],
- 	"dataProvider":});
+ 	"dataProvider":[{
+  "likes": 366,
+  "dislikes": 369,
+  "time": "2017-03-29 18:25"
+}]
+});
