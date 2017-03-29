@@ -42,58 +42,8 @@ AmCharts.makeChart("chartdiv", {
  		"text": "Ольгино за работой"
  	}],
  	"dataProvider":[{
-  "likes": 366,
-  "dislikes": 369,
-  "time": "2017-03-29 18:25"
-},
-{
-  "likes": 367,
-  "dislikes": 369,
-  "time": "2017-03-29 18:26"
-},
-{
-  "likes": 368,
-  "dislikes": 370,
-  "time": "2017-03-29 18:26"
-},
-{
-  "likes": 368,
-  "dislikes": 370,
-  "time": "2017-03-29 18:26"
-},
-{
-  "likes": 368,
-  "dislikes": 370,
-  "time": "2017-03-29 18:27"
-},
-{
-  "likes": 370,
-  "dislikes": 370,
-  "time": "2017-03-29 18:27"
-},
-{
-  "likes": 370,
-  "dislikes": 370,
-  "time": "2017-03-29 18:27"
-},
-{
-  "likes": 370,
-  "dislikes": 370,
-  "time": "2017-03-29 18:28"
-},
-{
-  "likes": 370,
-  "dislikes": 370,
-  "time": "2017-03-29 18:30"
-},
-{
-  "likes": 370,
-  "dislikes": 370,
-  "time": "2017-03-29 18:30"
-},
-{
-  "likes": 370,
-  "dislikes": 370,
-  "time": "2017-03-29 18:32"
+  "likes": 372,
+  "dislikes": 371,
+  "time": "2017-03-29 18:33"
 }]
 });
